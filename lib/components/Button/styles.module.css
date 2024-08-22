@@ -1,0 +1,9 @@
+.button {
+    padding: 4rem;
+    color: red;
+    background-color: rgb(134, 62, 215);
+    font-size: 46px;
+    border: 6px solid;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
